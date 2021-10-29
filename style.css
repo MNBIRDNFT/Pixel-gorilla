@@ -74,7 +74,7 @@ body{
  margin-top: 5%;
  width: 20%;
 }
-@media (Max-width: 3000000000000000000000000px){
+@media (Max-width: 1100px){
   .NFT img{
     width: 60%;
     margin-left: 20%;
