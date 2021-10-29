@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.accueil{
+  position: absolute;
+  top: 50px;
+  width: 80%;
+  left: 10%;
+  right:10%;
+  color: #272727;
+}
+
+.accueil #logo{
+  position:relative;
+  top: 7px;
+  left: 40px;
+  width: 30px;
+}
+
+.accueil #titre{
+  position:absolute;
+  top: 0px;
+  left: 75px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.accueil #pres{
+  position: absolute;
+  top: 80px;
+  left: 40px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+.accueil #page{
+  position: absolute;
+  top: 0px;
+  right: 150px;
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: #272727;
+}
+
+.accueil #insta{
+  position: absolute;
+  top: 10px;
+  right: 100px;
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: #272727;
+}
+.accueil #tiktok{
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: #272727;
+}
+.NFT{
+  margin-top: 200px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #272727;
+}
+.NFT img{
+ margin-left: 10%;
+ margin-top: 5%;
+ width: 20%;
+}
