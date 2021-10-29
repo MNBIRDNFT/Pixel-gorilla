@@ -27,7 +27,8 @@ body{
   left: 75px;
   font-size: 18px;
   cursor: pointer;
-  color:#272727;
+  style: none;
+  color: #272727;
 }
 
 .accueil #page{
