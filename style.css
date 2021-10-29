@@ -41,6 +41,7 @@ body{
 
 .accueil #insta{
   position: absolute;
+  width: 32px;
   top: 7px;
   right: 100px;
   font-size: 20px;
@@ -49,6 +50,7 @@ body{
 }
 .accueil #tiktok{
   position: absolute;
+  width: 32px;
   top: 7px;
   right: 50px;
   font-size: 20px;
@@ -73,12 +75,22 @@ body{
     margin-left: 10%;
     margin-right: 10%;
   }
-  .accueil #insta{
-    top: 7px;
-    right: 100px;
-    font-size: 20px;
-    letter-spacing: 5px;
-    color: #272727;
-    width: 50px;
+  .accueil #titre{
+    font-size: 25px;
+    top: -9px;
   }
+  .accueil #page{
+    font-size: 25px;
+    margin-top: 12px;
+    margin-right: 80px;
+  }
+  .accueil #insta{
+    width: 55px;
+    margin-top: -9px;
+    margin-right:40px;
+  }
+  .accueil #tiktok{
+    width: 55px;
+    margin-top: -9px;
+}
 }
