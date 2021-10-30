@@ -90,7 +90,7 @@ a{
   .accueil #page{
     font-size: 35px;
     margin-top: 12px;
-    margin-right: 23px;
+    margin-right: 50px;
   }
   .accueil #insta{
     width: 55px;
@@ -101,6 +101,11 @@ a{
     width: 55px;
     margin-top: -9px;
     margin-right: -43px;
+  }
+  .accueil #discord{
+    width: 50px;
+    margin-top: -5px;
+    margin-right: 21.5px;
   }
   .accueil #logo{
     width: 55px;
