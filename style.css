@@ -27,21 +27,22 @@
   right: 10%;
  }
  .collection img{
-  width: 48%;
-  top: 100px;
-  position: absolute;
-  right: 0%;
+   position: absolute;
+   width: 90%;
+   left: 5%;
+   right: 5%;
+   top: 5%;
  }
  .collection #cltt{
   position: absolute;
-  top: 180px;
+  top: 850px;
   left: 40px;
   cursor: default;
  }
  .collection #expl{
   position: absolute;
   width: 48%;
-  top: 250px;
+  top: 900px;
   left: 40px;
   cursor: default;
   font-family: vt323,monospace;
@@ -49,7 +50,7 @@
  #nb{
  text-align: center;
  font-size: 80px;
- margin-top: 100px;
+ margin-top: 500px;
  font-family: vt323,monospace;
  cursor: default;
  }
@@ -74,7 +75,7 @@
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 600px;
+  margin-top: 700px;
   color: white;
   z-index: 0;
   border: 1px solid #892cdc;
@@ -101,16 +102,29 @@
   top: 0px;
   border-radius: 0;
  }
- @media (Max-width: 1100px){
+ @media (Max-width: 1300px){
    .collection img{
-     width: 100%;
+     top: 0px;
+     width: 90%;
+     left: 5%;
+     right: 5%;
    }
    .collection #expl{
-     top: 560px;
+     top: 600px;
      width: 100%;
    }
+   .collection #cltt{
+     top: 820px;
+   }
    #opns{
-     margin-top: 800px;
+     margin-top: 900px;
+     margin-right: auto;
+   }
+   #nb{
+     margin-top: 200px;
+   }
+   .collection #cltt{
+     margin-top: -250px;
    }
    .nft img{
      width: 90%;
