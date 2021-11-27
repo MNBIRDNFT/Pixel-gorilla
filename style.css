@@ -145,26 +145,28 @@
    }
    .ban #ctc{
      position: absolute;
-     top: 350px;
+     top: 250px;
      width: 90%;
      left: 5%;
    }
    .ban #ctg{
      width: 60%;
      left: 20%;
-     top: 150px;
+     top: 50px;
    }
    .ban #ctd{
      width: 60%;
      left: 20%;
-     top: 850px;
+     top: 750px;
    }
    .collection #expl{
      top: 1600px;
      width: 100%;
+     font-size: 30px;
    }
    .collection #cltt{
      top: 1820px;
+     font-size: 40px;
    }
    #opns{
      margin-top: 1400px;
@@ -174,16 +176,18 @@
      font-size: 2.2rem;
    }
    #nb{
-     margin-top: 2000px;
+     margin-top: 500px;
    }
    .collection #cltt{
      margin-top: -250px;
    }
    .nft img{
-     position: absolute;
      width: 90%;
      margin-right: 5%;
      margin-left: 5%;
-     margin-top: 900px;
+     margin-top: 50px;
+   }
+   #pp{
+     width: 150px;
    }
  }
