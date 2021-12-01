@@ -19,6 +19,7 @@
   margin-left: auto;
   margin-right: auto;
 
+
  }
  .collection{
   width: 80%;
@@ -130,7 +131,7 @@
   top: 0px;
   border-radius: 0;
  }
- @media (Max-width: 1700px){
+ @media (Max-width: 1600px){
    .ban #ctd{
      right: 150px;
    }
@@ -138,7 +139,15 @@
      left:147px;
    }
  }
- @media (Max-width: 1500px){
+ @media (Max-width: 1400px){
+   .ban #ctd{
+     right: 80px;
+   }
+   .ban #ctg{
+     left:80px;
+   }
+ }
+ @media (Max-width: 1200px){
    .ban{
      position: absolute;
      display: flex;
