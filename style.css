@@ -14,8 +14,9 @@
  }
  #pp{
   position: relative;
-  width: 80px;
+  width: 300px;
   display: block;
+  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
 
@@ -34,7 +35,7 @@
  .ban #ctc{
    position: relative;
    width: 500px;
-   margin-top:110px;
+   margin-top:85px;
    display: block;
    margin-left: auto;
    margin-right: auto;
@@ -198,6 +199,6 @@
      margin-top: 50px;
    }
    #pp{
-     width: 150px;
+     width: 300px;
    }
  }
