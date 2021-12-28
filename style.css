@@ -14,9 +14,9 @@
  }
  #pp{
   position: relative;
-  width: 300px;
+  width: 200px;
   display: block;
-  margin-top: 50px;
+  margin-top: -20px;
   margin-left: auto;
   margin-right: auto;
 
@@ -35,7 +35,7 @@
  .ban #ctc{
    position: relative;
    width: 500px;
-   margin-top:85px;
+   margin-top:30px;
    display: block;
    margin-left: auto;
    margin-right: auto;
@@ -45,7 +45,7 @@
    z-index: -1;
    opacity: 0.5;
    width: 350px;
-   top: 235px;
+   top: 300px;
    right: 250px;
  }
  .ban #ctg{
@@ -53,19 +53,19 @@
    z-index: -1;
    opacity: 0.5;
    width: 350px;
-   top: 235px;
+   top: 300px;
    left: 250px;
  }
   .collection #cltt{
   position: absolute;
-  top:850px;
+  top:1100px;
   left: 40px;
   cursor: default;
  }
  .collection #expl{
   position: absolute;
   width: 48%;
-  top: 900px;
+  top: 1150px;
   left: 40px;
   cursor: default;
   font-family: vt323,monospace;
@@ -105,7 +105,7 @@
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 700px;
+  margin-top: 900px;
   color: white;
   z-index: 0;
   border: 1px solid #892cdc;
